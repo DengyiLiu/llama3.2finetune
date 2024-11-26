@@ -14,7 +14,7 @@ pip install --no-deps trl peft accelerate bitsandbytes
 conda install conda-forge::transformers
 
 pip install xformers
-
+```
 ### REFERENCES
 
 https://huggingface.co/blog/ImranzamanML/fine-tuning-1b-llama-32-a-comprehensive-article
