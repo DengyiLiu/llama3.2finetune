@@ -4,7 +4,7 @@ This is repo is for our natural language processing final project.
 
 ## EXVIRONMENT
 
-'''bash
+```bash
 conda install pytorch==2.5.0 torchvision==0.20.0 torchaudio==2.5.0 pytorch-cuda=12.1 -c pytorch -c nvidia
 
 pip install "unsloth[colab-new] @ git+https://github.com/unslothai/unsloth.git"
