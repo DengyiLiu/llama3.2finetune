@@ -30,7 +30,10 @@ https://colab.research.google.com/drive/1GbAzOfrM5i1BOwlUqydO3_QTk8GtlBUw?usp=sh
 We'd like to thank the contribution from:
 
 https://huggingface.co/blog/ImranzamanML/fine-tuning-1b-llama-32-a-comprehensive-article
-https://github.com/huggingface/transformers/tree/main
+
+
+https://github.com/huggingface/transformers/tree/main   
+
 https://github.com/unslothai/unsloth
 
 
